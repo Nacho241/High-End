@@ -1,0 +1,4 @@
+Ciclo de vida:Modelo Incremental
+
+Elejimos el modelo incremental porque, al no tener el total de los conocimientos para realizar el proyecto de forma completa en este momento, hemos optado por un modelo que nos permita adaptarnos a los conocimientos adquiridos en el futuro, 
+asi como tambien poder identificar errores, solicionarlos y documentarlos.

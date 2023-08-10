@@ -1,0 +1,25 @@
+Reglas a cumplir:
+
+	1- Llegar en hora a las reuniones, en caso de llegada tarde avisar.
+		*Si esta regla no es cumplida, a la segunda llegada tarde se le dara una advertencia, a la tercera llegada tarde se le asignara trabajo extra, mas de tres llegadas tarde se discutira una sancion con el resto de integrantes. 
+	
+	2- Asistir a las materias del tronco tecnologico, de manera puntual.
+		*Si esta regla no es cumplida, se le dara una advertencia y se consultara la razon de las inasistencias.
+
+	3- Respetar las fechas de entregas establecidas y anteriormente pactadas. Existira cierta flexibilidad dependiendio de el caso.
+		*Si esta reglka no es cumplida, se le asignara trabajo extra.
+
+	4- Las diferencias que surgan entre los integrantes deben ser parcialmente solucionadas con el lider de proyecto.
+		*Si esta regla no es cumplida, a ambos integrantes se les asignara trabajo extra. En caso de que el lider no medie se le destutirá del cargo.
+
+	5- No intercambiar informacion sin antes ser consultada con los demas integrantes del proyecto.
+		*Si esta gregla no se cumple, se hara una votacion de posible desvinculacion y en caso de no ser desvinculado se le restringira la informacion de modo de precausion.
+
+	6- Los miembros del grupo hacen todo lo que está a su alcance para garantizar que todos los participantes estén involucrados desde el inicio del proceso de un proyecto.
+		*Si esta regla no es cumplida, se hara una advertencia verbal, si esto continua se hara una reunion con los demas integrantes donde se decidira un castigo.
+
+	7- La enteridad de la composición del grupo de proyecto debe analizar y comprender el resultado posterior a cada reunión.
+		*Si esta regla no es cumplida, se hara una advertencia verbal, si esto continua se hara una reunion con los demas integrantes donde se decidira un castigo.
+
+	
+	

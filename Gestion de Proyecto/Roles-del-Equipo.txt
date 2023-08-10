@@ -1,0 +1,11 @@
+Roles dentro del equipo:	-Adminitrador de proyectos: Matias.
+				-Analistas: Luka, Ignacio.
+				-Diseñadores: Ignacio, Luka.
+				-Programadores: Ignacio, Matias.
+				-Tester:Luka, Jordi.
+				-Aseguradores de calidad: Luka, Jordi.
+				-Administrador de configuracion: Matias. 
+				-Ingeniero de validación y verificación: Ignacio.
+				-Documentador: Jordi.  
+				-Ingeniero de manutención: Jordi, Matias.
+				-Cliente comprometido: Ignacio.

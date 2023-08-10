@@ -1,0 +1,4 @@
+54811900:1234:Agustin:Santana:Administrador
+55555555:4444:Nacho:Ta:Consultas
+12345678:4321:Carlitos:Traversito:Ingeniero
+33333333:andolol123:Axel:Lombardi:Administrador
